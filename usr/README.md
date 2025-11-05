@@ -1,6 +1,6 @@
-# couldai_user_app
+# Family History
 
-A new Flutter project.
+A family history application.
 
 ## Getting Started
 
