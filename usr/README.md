@@ -1,6 +1,6 @@
-# Family History
+# Family Tree
 
-A family history application.
+A family tree application.
 
 ## Getting Started
 

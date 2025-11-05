@@ -10,13 +10,13 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Family History',
+      title: 'Family Tree',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: 'Family History'),
+      home: const MyHomePage(title: 'Family Tree'),
     );
   }
 }
@@ -37,7 +37,7 @@ class MyHomePage extends StatelessWidget {
         child: Padding(
           padding: EdgeInsets.all(16.0),
           child: Text(
-            'Welcome to your Family History!',
+            'Welcome to your Family Tree!',
             style: TextStyle(fontSize: 24),
             textAlign: TextAlign.center,
           ),
